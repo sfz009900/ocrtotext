@@ -29,3 +29,9 @@ https://github.com/user-attachments/assets/d6c92e76-5d9a-4e1a-93e5-069e13329407
 
 译文:
 ![image](https://github.com/user-attachments/assets/d4ef221e-6f24-4892-8298-4668420dbd44)
+
+
+# 注意事项,
+1:如果直接运行报错,就去这里增加个这个英文
+![image](https://github.com/user-attachments/assets/519cb2f8-a7ca-45f7-8b96-53ef1a5de7b9)
+2:现在只是玩具版,可能很多地方不稳定和不完善
