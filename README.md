@@ -16,14 +16,14 @@ https://github.com/user-attachments/assets/d6c92e76-5d9a-4e1a-93e5-069e13329407
 自带一个gemma27b的免费测试服务器,可以选择"推特模式"和"普通模式",每个IP每天只能翻译30次
 ![image](https://github.com/user-attachments/assets/ec6175ca-e497-47b3-9e4e-8e63457628d6)
 
-这是推特模式的翻译风格效果
+#这是推特模式的翻译风格效果
 原文:
 ![image](https://github.com/user-attachments/assets/f458d469-3e0b-44bf-ad32-2113dc26a6fa)
 
 译文:
 ![image](https://github.com/user-attachments/assets/138d9b51-ee89-4a05-85ff-4ecc9231225e)
 
-截图翻译的效果对比:
+#截图翻译的效果对比:
 原文:
 ![image](https://github.com/user-attachments/assets/118b0ed4-2ee5-4aff-8d56-ef24206cac10)
 
