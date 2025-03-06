@@ -1,4 +1,4 @@
-# ocrtotext
+![image](https://github.com/user-attachments/assets/88869c53-afc5-41b5-9440-8201f52a6b85)# ocrtotext
 使用windows自带的Windows.Media.Ocr进行截图翻译,可一键复制原文,译文,和覆盖译文到截图时的地方
 
 支持ollama,openai,自定义接口和翻译提示词,可以管理多套提示词比如"推特专用","普通模式"
@@ -18,5 +18,14 @@ https://github.com/user-attachments/assets/d6c92e76-5d9a-4e1a-93e5-069e13329407
 
 这是推特模式的翻译风格效果
 原文:
-![image](https://github.com/user-attachments/assets/2e3ddd4e-881f-4db0-9c26-d0c417ebf027)
+![image](https://github.com/user-attachments/assets/f458d469-3e0b-44bf-ad32-2113dc26a6fa)
+
 译文:
+![image](https://github.com/user-attachments/assets/138d9b51-ee89-4a05-85ff-4ecc9231225e)
+
+截图翻译的效果对比:
+原文:
+![image](https://github.com/user-attachments/assets/118b0ed4-2ee5-4aff-8d56-ef24206cac10)
+
+译文:
+![image](https://github.com/user-attachments/assets/d4ef221e-6f24-4892-8298-4668420dbd44)
