@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/88869c53-afc5-41b5-9440-8201f52a6b85)# ocrtotext
+# ocrtotext
 使用windows自带的Windows.Media.Ocr进行截图翻译,可一键复制原文,译文,和覆盖译文到截图时的地方
 
 支持ollama,openai,自定义接口和翻译提示词,可以管理多套提示词比如"推特专用","普通模式"
