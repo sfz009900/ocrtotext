@@ -4,7 +4,7 @@
 支持ollama,openai,自定义接口和翻译提示词,可以管理多套提示词比如"推特专用","普通模式"
 ![image](https://github.com/user-attachments/assets/cb3e7f0b-3979-464b-8fe7-1538285b0ff5)
 
-# 和使用的translators库里的一大堆的翻译免费翻译接口(国内可以打不开它内置的一些URL)
+# 和使用的translators库里的一大堆的翻译免费翻译接口(国内可能打不开它内置的一些URL)
 https://github.com/UlionTse/translators
 ![image](https://github.com/user-attachments/assets/8d62f595-88b4-4c19-8230-442bf0203fb5)
 
