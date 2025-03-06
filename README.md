@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/d6c92e76-5d9a-4e1a-93e5-069e13329407
 1:如果直接运行报错,就去这里增加个这个英文
 ![image](https://github.com/user-attachments/assets/519cb2f8-a7ca-45f7-8b96-53ef1a5de7b9)
 2:现在只是玩具版,可能很多地方不稳定和不完善
-3:因为使用了哪个一大堆免费翻译接口的库translators可能会导致国内打不开
+3:因为使用了哪个一大堆免费翻译接口的库translators可能会导致国内打不开,可以使用Proxifier或者其他VPN把main.exe进程名拉到翻墙里就行了
